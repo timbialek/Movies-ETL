@@ -1,4 +1,5 @@
 # Adding config.py file.
 movies_metadata.csv
 ratings.csv
+config.py
 
