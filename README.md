@@ -23,8 +23,7 @@ Deliverable 3: Extract and Transform the Kaggle data -
 [ETL_clean_kaggle_data.ipynb](https://github.com/timbialek/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
 	
  
-Deliverable 4: Create the Movie Database
-
+Deliverable 4: Create the Movie Database - 
    [ETL_create_database.ipynb](https://github.com/timbialek/Movies-ETL/blob/main/ETL_create_database.ipynb)
 
    [movies_query.png](https://github.com/timbialek/Movies-ETL/blob/main/Resources/movies_query.PNG)
