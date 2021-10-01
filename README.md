@@ -13,7 +13,7 @@
 This new assignment consists of four technical analysis deliverables. You will submit the following:
 
 Deliverable 1: Write an ETL Function to Read Three Data Files
-![](https://github.com/timbialek/Movies-ETL/blob/main/ETL_function_test.ipynb)
+![ETL_function_test.ipynb](https://github.com/timbialek/Movies-ETL/blob/main/ETL_function_test.ipynb)
 
 
 Deliverable 2: Extract and Transform the Wikipedia Data
