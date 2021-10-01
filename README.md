@@ -12,12 +12,20 @@
 
 This new assignment consists of four technical analysis deliverables. You will submit the following:
 
-Deliverable 1: Write an ETL Function to Read Three Data Files
-[ETL_function_test.ipynb](https://github.com/timbialek/Movies-ETL/blob/main/ETL_function_test.ipynb)
+	* Deliverable 1: Write an ETL Function to Read Three Data Files - 
+  	[ETL_function_test.ipynb](https://github.com/timbialek/Movies-ETL/blob/main/ETL_function_test.ipynb)
+
+	* Deliverable 2: Extract and Transform the Wikipedia Data
+	[ETL_clean_wiki_movies.ipyn](https://github.com/timbialek/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
 
 
-Deliverable 2: Extract and Transform the Wikipedia Data
+	*Deliverable 3: Extract and Transform the Kaggle data
+	[ETL_clean_kaggle_data.ipynb](https://github.com/timbialek/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
+	
+ 
+	* Deliverable 4: Create the Movie Database
+	[ETL_create_database.ipynb](https://github.com/timbialek/Movies-ETL/blob/main/ETL_create_database.ipynb)
+	[movies_query.png](https://github.com/timbialek/Movies-ETL/blob/main/Resources/movies_query.PNG)
+	[movies_query.png](https://github.com/timbialek/Movies-ETL/blob/main/Resources/movies_query.PNG)
+	[create_database_elapsed_time.PNG](https://github.com/timbialek/Movies-ETL/blob/main/Resources/create_database_elapsed_time.PNG)
 
-Deliverable 3: Extract and Transform the Kaggle data
-
-Deliverable 4: Create the Movie Database
